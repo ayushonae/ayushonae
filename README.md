@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
-<h3 align="center">Passionate CSE student exploring web development & improving DSA fundamentals.</h3>
+<h1 align="center">Hi, I'm Ayush Pandey 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;JavaScript+Learner;DSA+Enthusiast;Future+Full+Stack+Developer&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <b>Passionate developer exploring full-stack web apps & problem solving.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ayushonae?tab=repositories">
+    <img src="https://img.shields.io/badge/All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=ayushonae&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Building small web apps and improving frontend fundamentals.
+- 💻 Building small web apps and improving frontend skills.
 - 🧠 Improving my DSA fundamentals & problem-solving skills.
 - 🌱 Currently learning React, Node.js, Express, and MongoDB.
 - ⚡ Love creating clean UI and interactive web experiences.
@@ -59,9 +66,17 @@
 
 | Project | Description | Tech Stack |
 |----------|-------------|-------------|
-| [🌦️ Weather App](https://github.com/ayushonae/weather-app) | A modern responsive weather app with dynamic weather-based UI and mobile responsiveness. | HTML · CSS · JavaScript |
-| [⚖️ BMI Calculator](https://github.com/ayushonae/bmi-calculator) | Simple BMI calculator that calculates body mass index based on height and weight input. | HTML · CSS · JavaScript |
-| [🎯 Number Guessing Game](https://github.com/ayushonae/number-guessing-game) | Interactive guessing game built using JavaScript logic and DOM manipulation. | HTML · CSS · JavaScript |
+| [🌦️ Weather App](https://github.com/ayushonae/weather-app) | Modern responsive weather app with dynamic weather-based UI and mobile responsiveness. | HTML · CSS · JavaScript |
+| [⚖️ BMI Calculator](https://github.com/ayushonae/bmi-calculator) | BMI calculator that calculates body mass index based on height and weight input. | HTML · CSS · JavaScript |
+| [🎯 Number Guessing Game](https://github.com/ayushonae/number-guessing-game) | Interactive guessing game using JavaScript logic and DOM manipulation. | HTML · CSS · JavaScript |
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushonae&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
