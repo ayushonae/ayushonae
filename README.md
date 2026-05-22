@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 💻 Building small web apps and improving frontend skills.
+- 💻 Building small web apps.
 - 🧠 Improving my DSA fundamentals & problem-solving skills.
 - 🌱 Currently learning React, Node.js, Express, and MongoDB.
 - ⚡ Love creating clean UI and interactive web experiences.
@@ -34,9 +34,6 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/ayushonae">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
 </p>
 
 ---
