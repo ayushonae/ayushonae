@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayush Pandey 👋</h1>
+<h1 align="center">Hi, I'm Ayush Pandey</h1>
 
 <p align="center">
   <b>Passionate developer exploring full-stack web apps & problem solving.</b>
@@ -16,10 +16,10 @@
 
 ## 🚀 About Me
 
-- 💻 Building small web apps.
-- 🧠 Improving my DSA fundamentals & problem-solving skills.
-- 🌱 Currently learning React, Node.js, Express, and MongoDB.
-- ⚡ Love creating clean UI and interactive web experiences.
+- Building small web apps.
+- Improving my DSA fundamentals & problem-solving skills.
+- Currently learning React, Node.js, Express, and MongoDB.
+- Love creating clean UI and interactive web experiences.
 
 ---
 
@@ -64,6 +64,7 @@
 | Project | Description | Tech Stack |
 |----------|-------------|-------------|
 | [🌦️ Weather App](https://github.com/ayushonae/weather-app) | Modern responsive weather app with dynamic weather-based UI and mobile responsiveness. | HTML · CSS · JavaScript |
+| [📅 TimeBlock Planner](https://github.com/ayushonae/timeblock) | Time-blocking productivity app with task management, priority levels, task editing, filtering, completion tracking, and local storage persistence. **Live Demo:** https://timeblock-gray.vercel.app | React · JavaScript · CSS · Local Storage |
 | [⚖️ BMI Calculator](https://github.com/ayushonae/bmi-calculator) | BMI calculator that calculates body mass index based on height and weight input. | HTML · CSS · JavaScript |
 | [🎯 Number Guessing Game](https://github.com/ayushonae/number-guessing-game) | Interactive guessing game using JavaScript logic and DOM manipulation. | HTML · CSS · JavaScript |
 
